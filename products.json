@@ -1,0 +1,32 @@
+[
+    {
+        "name": "iphone 6",
+        "price": 1000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy s21",
+        "price": 900,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "pixel 6",
+        "price": 800,
+        "featured": false,
+        "company": "google"
+    },
+    {
+        "name": "oneplus nord 2",
+        "price": 700,
+        "featured": false,
+        "company": "oneplus"
+    },
+    {
+        "name": "Nokia 3310",
+        "price": 600,
+        "featured": false,
+        "company": "nokia"
+    }
+]
